@@ -14,7 +14,7 @@ npm install
 cp .env.example .env
 ```
 
-Update the `NUXT_API_BASE_URL` accordingly
+Update the `NUXT_API_BASE_URL` from `.env` accordingly.
 
 ## Development Server
 
