@@ -15,5 +15,8 @@ export default defineNuxtConfig({
     public: {
       apiBaseURL: process.env.NUXT_API_BASE_URL,
     }
+  },
+  devServer: {
+    port: 5000
   }
 })
