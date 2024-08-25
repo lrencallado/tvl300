@@ -9,7 +9,12 @@ Make sure to install the dependencies:
 ```bash
 # npm
 npm install
+
+# Copy the .env.example to .env
+cp .env.example .env
 ```
+
+Update the `NUXT_API_BASE_URL` accordingly
 
 ## Development Server
 
